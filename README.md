@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi, I'm Ramon 👋
+<hr>
 
+
+<p>I'm a software developer who is passionate about creating technology. Passionate about electric guitars, crazy about football and loved by Jesus.</p>
+
+## Find me around the web 🌎:
+- Sharing updates on <a href="https://www.linkedin.com/in/ramonbsales/">LinkedIn</a> 💼
 <!--
 **ramonborges15/ramonborges15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
