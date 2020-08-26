@@ -1,8 +1,9 @@
 ### Hi, I'm Ramon 👋
 <hr>
 <p>I'm a software developer who is passionate about creating technology solutions. Work at Etaure TI & Automação :computer:.</p> 
-<p>:guitar: Passionate about electric guitars. 
-<p>:basketball::soccer: Crazy about sports  
+<p>:green_heart::yellow_heart: A brazilian guy.</p>
+<p>:guitar: Passionate about electric guitars. </p>
+<p>:basketball::soccer: Crazy about sports.</p>  
 <p>:heart: And loved by Jesus.</p>
 
 ## Find me around the web 🌎:
