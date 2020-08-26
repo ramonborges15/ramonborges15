@@ -3,7 +3,10 @@
 
 <img src="GitHubBG.png" class="ndfHFb-c4YZDc-HiaYvf-RJLb9c" alt="Exibindo GitHubBG.png" aria-hidden="true">
 
-<p>I'm a software developer who is passionate about creating technology. Passionate about electric guitars, crazy about football and loved by Jesus.</p>
+<p>I'm a software developer who is passionate about creating technology solutions.</p> 
+<p>:guitar: Passionate about electric guitars. 
+<p>:basketball::soccer: Crazy about sports  
+<p>:heart: And loved by Jesus.</p>
 
 ## Find me around the web 🌎:
 - Sharing updates on <a href="https://www.linkedin.com/in/ramonbsales/">LinkedIn</a> 💼
@@ -11,7 +14,7 @@
 **ramonborges15/ramonborges15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+https://gist.github.com/rxaviers/7360908
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
