@@ -1,7 +1,7 @@
 ### Hi, I'm Ramon 👋
 <hr>
 
-<img src="https://lh6.googleusercontent.com/5svpCi-eWDIFawi03KT3XviytyiMh-cm-qd8gvcQtJPTADjzFrjysV_S2Xb4Giu0o46TNDahS90FQsp9QvfX=w1920-h937" class="ndfHFb-c4YZDc-HiaYvf-RJLb9c" alt="Exibindo GitHubBG.png" aria-hidden="true">
+<img src="GitHubBG.png" class="ndfHFb-c4YZDc-HiaYvf-RJLb9c" alt="Exibindo GitHubBG.png" aria-hidden="true">
 
 <p>I'm a software developer who is passionate about creating technology. Passionate about electric guitars, crazy about football and loved by Jesus.</p>
 
