@@ -1,7 +1,7 @@
 ### Hi, I'm Ramon 👋
 <hr>
 
-<img src="GitHubBG.png" class="ndfHFb-c4YZDc-HiaYvf-RJLb9c" alt="Exibindo GitHubBG.png" aria-hidden="true">
+<img src="GitHubBG.png">
 
 <p>I'm a software developer who is passionate about creating technology solutions.</p> 
 <p>:guitar: Passionate about electric guitars. 
