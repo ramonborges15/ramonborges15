@@ -1,9 +1,6 @@
 ### Hi, I'm Ramon 👋
 <hr>
-
-<img src="GitHubBG.png">
-
-<p>I'm a software developer who is passionate about creating technology solutions.</p> 
+<p>I'm a software developer who is passionate about creating technology solutions. Works at Etaure TI & Automação :computer:.</p> 
 <p>:guitar: Passionate about electric guitars. 
 <p>:basketball::soccer: Crazy about sports  
 <p>:heart: And loved by Jesus.</p>
