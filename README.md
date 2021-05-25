@@ -6,7 +6,7 @@
 <p>:basketball::soccer: Crazy about sports.</p>  
 <p>:heart: And loved by Jesus.</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramonborges15&layout=compact&theme=merko)](https://github.com/ramonborges15/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramonborges15&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Find me around the web 🌎:
