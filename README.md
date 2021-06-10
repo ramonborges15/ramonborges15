@@ -1,4 +1,4 @@
-### Hi, I'm Ramon 👋
+<img src="/softwaredeveloperbg.png">
 <hr>
 <p>I'm a software developer who is passionate about creating technology solutions. Work at Etaure TI & Automação :computer:. Some technologies I enjoy working with include Java, Javascript (Angular, Node js).</p> 
 <p>:green_heart::yellow_heart: A brazilian guy.</p>
