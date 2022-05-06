@@ -10,4 +10,4 @@
 
 
 ## Find me around the web 🌎:
-- Sharing updates on <a href="https://www.linkedin.com/in/ramonbsales/">LinkedIn</a> 💼
+- Sharing updates on <a href="https://www.linkedin.com/in/ramonbsales/">LinkedIn</a> 💼 and <a href="https://dev.to/ramonborges15">Blog</a>
